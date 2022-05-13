@@ -1,10 +1,10 @@
-# REAL TIME SUDOKU SOLVER
+# Real-time Sudoku Solver
 This is the fun tool which solves the sudoku in the real time.
 
-# FRAMEWORK USED :
+## Libraries and technology :
 Keras, Numpy, scipy, opencv.
 
-# ALGORITHMS USED:
+## Algorithm:
 digit recognition, backtracking.
 
 
